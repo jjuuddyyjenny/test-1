@@ -4,7 +4,8 @@ public class haha
     public static void main (String[] args)
     {
         System.out.print("I'm always hungry");
-       
+        
+        System.out.print("Kitty loves me la"); 
       
     }
 }    
